@@ -1,0 +1,1 @@
+print("Skibidi itaychik")
